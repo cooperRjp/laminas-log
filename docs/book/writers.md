@@ -150,7 +150,7 @@ $ composer require firephp/firephp-core
 
 ## Writing to ChromePHP
 
-`Laminas\Log\Writer\ChromePHP` sends log data to the
+`Laminas\Log\Writer\ChromePhp()` sends log data to the
 [ChromePHP](https://chrome.google.com/webstore/detail/chrome-logger/noaneddfkdjfnfdakjjmocngnfkfehhd)
 Chrome extension.
 
